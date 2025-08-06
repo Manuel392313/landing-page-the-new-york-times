@@ -1,2 +1,2 @@
-# landing-page-the-new-york-times
-Aplicación de HTML, CSS Y JS para la estética de la marca The New York Times 
+# Landing page The New Yoek Times
+El objetivo de este sitio web es presentar el nuevo servicio de podcast del periodico The New York Times
