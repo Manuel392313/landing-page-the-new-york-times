@@ -1,17 +1,26 @@
+:root{
+    /*colores de la marca*/ 
+    --negro: #000000;
+    --blanco: #FFFFFF;
+    --gris: #808080;
+
+}
+
 body{ 
     font-family: monospace;
-    background-color: black;
+    background-color: var(--negro);
 }
 
 h2{
     font-size: 35px;
     font-family: 'Times New Roman', Times, serif;
-    color: #FFFFFF;
+    color: var(--blanco);
+
 }
 
 h1{
-    background-color: black;
-    color: white;
+    background-color: var(--negro);
+    color: var(--blanco);
     font-size: 80px;
     font-family: cheltenham;
     text-align: center;
@@ -19,16 +28,16 @@ h1{
 
 p.producto{
     font-size: 20px;
-    color: #FFFFFF;
+    color: var(--blanco);
     font-family: monospace;
-    background-color: grey;
+    background-color: var(--gris);
 }
 
 p.intro{
     font-size: 20px;
-    color: #FFFFFF;
+    color: var(--blanco);
     font-family: monospace;
-    background-color: grey;
+    background-color: var(--gris);
 
 }
 

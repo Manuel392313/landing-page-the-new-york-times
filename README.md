@@ -5,9 +5,9 @@ El objetivo de este sitio web es presentar el nuevo servicio de podcast del peri
 
 La elección de los siguientes colores transmiten seriedad, neutralidad y autoridad. Estos colores reflejan los valores fundmentales del periodismo tradicional
 
-- #000000
-- #FFFFFF
-- #808080
+- #000000 -- negro
+- #FFFFFF -- blanco
+- #808080 --gris
 
 ## Tipografía
 
