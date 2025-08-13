@@ -1,0 +1,42 @@
+body{ 
+    font-family: monospace;
+    background-color: black;
+}
+
+h2{
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #FFFFFF;
+}
+
+h1{
+    background-color: black;
+    color: white;
+    font-size: 80px;
+    font-family: cheltenham;
+    text-align: center;
+}
+
+p.producto{
+    font-size: 20px;
+    color: #FFFFFF;
+    font-family: monospace;
+    background-color: grey;
+}
+
+p.intro{
+    font-size: 20px;
+    color: #FFFFFF;
+    font-family: monospace;
+    background-color: grey;
+
+}
+
+.logo{
+    margin: auto;
+    width: 100%;
+    text-align: center;
+}
+.logo img{
+    width: 130px;
+}

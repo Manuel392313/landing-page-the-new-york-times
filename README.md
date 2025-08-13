@@ -7,8 +7,7 @@ La elección de los siguientes colores transmiten seriedad, neutralidad y autori
 
 - #000000
 - #FFFFFF
-- #333333
-- #F7F7F5
+- #808080
 
 ## Tipografía
 
