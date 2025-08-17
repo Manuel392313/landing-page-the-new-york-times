@@ -10,7 +10,7 @@
 
 body{ 
     font-family: monospace;
-    background-color: var(--negro);
+    background-color: var(--blanco);
 }
 
 h2{
@@ -20,13 +20,6 @@ h2{
 
 }
 
-h1{
-    background-color: var(--negro);
-    color: var(--blanco);
-    font-size: 80px;
-    font-family: "UnifrakturMaguntia", cursive;
-    text-align: center;
-}
 
 p.producto{
     font-size: 20px;
@@ -49,5 +42,14 @@ p.intro{
     text-align: center;
 }
 .logo img{
-    width: 130px;
+    width: 30px;
+}
+
+.imagen{
+    margin: auto;
+    width: 100%;
+    text-align: center;
+}
+.imagen img{
+    width: 1000px;
 }
