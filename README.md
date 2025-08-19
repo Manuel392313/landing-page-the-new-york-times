@@ -1,27 +1,27 @@
 # Landing page The New York Times
-El objetivo de este sitio web es presentar el nuevo servicio de podcast del periodico The New York Times
+Presentar el nuevo servicio de podcast (The Daily) como el producto principal de la página, reforzando su relación con la marca y su rol como fuente confiable de periodismo. Al mismo tiempo, mantener visible la esencia de periódico con otras noticias relevantes.
 
 ## Colores de la marca
 
-La elección de los siguientes colores transmiten seriedad, neutralidad y autoridad. Estos colores reflejan los valores fundmentales del periodismo tradicional
+La elección de los siguientes colores transmiten seriedad, neutralidad y autoridad. Estos colores reflejan los valores fundmentales del periodismo tradicional y de la marca en general.
 
 - #000000 -- negro
 - #FFFFFF -- blanco
-- #808080 --gris
+- #666666 --gris
 
 ## Tipografía
 
-La tipografia "UnifrakturMaguntia" clásica de la marca evoca el estilo editorial clásico de los grandes periódicos. Sus formas refinadas y contraste tipográfico le dan un carácter formal y atemporal.
+- Noto Sans Georgian 
 
 ## Propósito (metodologia de historia de usuario)
 
-¿Quién?: Personas interesadas en formarse sobre actuaidad mundial y temas complejos de forma clara y accesible 
+¿Quién?: Personas interesadas en informarse sobre la actualidad mundial y comprender temas complejos de manera clara y accesible, valorando información confiable y de calidad.
 
-¿Qué necesita?: Estar al día con las noticias, comprender contextos complejos y consumir información confiable en un formato ágil que se adapte a su rutina diaria (como en el transporte, mientras caminan, hacen ejercicio, etc.)
+¿Qué necesita?: Estar al día con las noticias, entender contextos complejos y acceder a información confiable en un formato ágil que se adapte a su rutina diaria, como escuchar mientras se transportan, caminan o hacen ejercicio.
 
-¿Qué ofrece el servicio?: Un podcast diario con reportajes narrativos y análisis periodístico de alta calidad, producido por el equipo de periodistas de The New York Times, que traduce noticias complejas a un lenguaje cercano humano.
+¿Qué ofrece el servicio?: Un podcast diario, The Daily, con reportajes narrativos y análisis periodístico de alta calidad, producido por el equipo de The New York Times. Convierte noticias complejas en historias cercanas y humanas, listas para escuchar en cualquier momento. Pero, el podcast se promociona mediante la página oficial deL New York Times.
 
-Beneficio final: El oyente se mantiene informado, entiende mejor el mundo en el que vive y confía en que la información que consume es verificada, profunda y presentada de forma atractiva y práctica
+Beneficio final: El oyente se mantiene informado, comprende mejor el mundo que lo rodea y confía en que la información que consume es verificada, profunda y presentada de manera atractiva y práctica.
 
 ## Diseño Visual 
 ![Diseño visual landing page](periodico.png)
