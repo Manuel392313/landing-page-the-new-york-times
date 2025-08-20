@@ -7,7 +7,7 @@ La elección de los siguientes colores transmiten seriedad, neutralidad y autori
 
 - #000000 -- negro
 - #FFFFFF -- blanco
-- #666666 --gris
+- #F2F2F2 --gris
 
 ## Tipografía
 

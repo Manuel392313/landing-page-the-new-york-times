@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Georgian:wght@100..900&family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
 
 :root{
     /*colores de la marca*/ 
@@ -8,48 +8,43 @@
 
 }
 
-body{ 
-    font-family: monospace;
+.encabezado {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
     background-color: var(--blanco);
+    padding: 20px;
 }
 
-h2{
-    font-size: 35px;
-    font-family: 'Times New Roman', Times, serif;
-    color: var(--blanco);
-
+.encabezado a {
+    text-decoration: none;
+    flex: 0 0 auto;
 }
 
+.encabezado .fa-bars {
+    font-size: 30px;
+    color: var(--negro);
+    margin-right: 20px; /* Espacio entre icono y imagen */
+}
 
-p.producto{
-    font-size: 20px;
-    color: var(--blanco);
-    font-family: monospace;
+.encabezado .fa-user {
+    font-size: 30px;
+    color: var(--negro);
+    margin-left: 20px; /* Espacio entre imagen y icono */
+}
+
+.encabezado img {
+    width: 310px;
+    display: block;
+    margin: 0 auto;
+}
+
+.fecha {
     background-color: var(--gris);
-}
-
-p.intro{
-    font-size: 20px;
-    color: var(--blanco);
-    font-family: monospace;
-    background-color: var(--gris);
-
-}
-
-.logo{
-    margin: auto;
-    width: 100%;
-    text-align: center;
-}
-.logo img{
-    width: 30px;
-}
-
-.imagen{
-    margin: auto;
-    width: 100%;
-    text-align: center;
-}
-.imagen img{
-    width: 1000px;
+    color: var(--blanco); 
+    font-family: 'Noto Sans Georgian', sans-serif;
+    padding: 4px 12px;
+    font-size: 1.5em;
+    margin: 1px 0;
+    border-radius: 4px;
 }
