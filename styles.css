@@ -41,10 +41,10 @@
 
 .fecha {
     background-color: var(--gris);
-    color: var(--blanco); 
+    color: var(--negro); 
     font-family: 'Noto Sans Georgian', sans-serif;
     padding: 4px 12px;
     font-size: 1.5em;
-    margin: 1px 0;
+    margin: 10px 0;
     border-radius: 4px;
 }
