@@ -4,16 +4,17 @@
     /*colores de la marca*/ 
     --negro: #000000;
     --blanco: #FFFFFF;
-    --gris: #808080;
+    --gris: #e6e6e6;
 
 }
 
 .encabezado {
     display: flex;
     align-items: center;
-    justify-content: space-between;
-    background-color: var(--blanco);
-    padding: 20px;
+    justify-content: center;
+    gap: 32px;
+    margin-top: 24px;   
+
 }
 
 .encabezado a {
@@ -22,29 +23,64 @@
 }
 
 .encabezado .fa-bars {
-    font-size: 30px;
+    font-size: 20px;
     color: var(--negro);
-    margin-right: 20px; /* Espacio entre icono y imagen */
+    margin-right: 15px; /* Espacio entre icono y imagen */
+    padding-left: 40px;
 }
 
 .encabezado .fa-user {
-    font-size: 30px;
+    font-size: 20px;
     color: var(--negro);
     margin-left: 20px; /* Espacio entre imagen y icono */
+    padding-right: 40px;
 }
 
 .encabezado img {
-    width: 310px;
+    width: 250px;
     display: block;
     margin: 0 auto;
 }
 
 .fecha {
     background-color: var(--gris);
-    color: var(--negro); 
+    color: #666666; 
     font-family: 'Noto Sans Georgian', sans-serif;
-    padding: 4px 12px;
-    font-size: 1.5em;
+    padding: 1px 4px;
+    font-size: 0.85em;
     margin: 10px 0;
     border-radius: 4px;
+    width: 100vw;         
+    box-sizing: border-box; 
+    position: relative;     
+    left: 50%;
+    right: 50%;
+    transform: translateX(-50%);
+}
+
+.noticia.principal {
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.noticia.principal h2 {
+    font-size: 32px; 
+    font-weight: 700;
+    margin-bottom: 12px;
+    line-height: 35px;
+}
+
+.noticia.principal p {
+    color: #666666;
+    font-size: 15px;
+    font-weight: 400;
+    margin-bottom: 8px;
+}   
+
+.descripcion {
+    text-align: right;
+    margin-top: 4px;
+    font-size: 12px;
+    width: 415px;         /* Ocupa el mismo ancho que la imagen */
+    box-sizing: border-box;
+
 }
